@@ -1,5 +1,5 @@
 package semver
 
-func version() string {
-	return "v0.0.2"
+func Version() string {
+	return "v0.0.3"
 }
